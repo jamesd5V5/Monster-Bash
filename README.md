@@ -8,6 +8,8 @@ Jame Gam #26 Submssion
 
 Score: Scored in the top 10 teams of the 85
 
+Time: 5 days from scratch
+
 Story:
 You are a newly spawned demon and humans are already coming to vanquish you from their world. 
 Defend yourself by building a larger and larger base! 
